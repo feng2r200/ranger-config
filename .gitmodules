@@ -1,0 +1,3 @@
+[submodule "plugins/ranger_tmux"]
+	path = plugins/ranger_tmux
+	url = git@github.com:joouha/ranger_tmux.git
